@@ -1,4 +1,5 @@
 numpy
 matplotlib
 scipy
+ipympl
 ipywidgets~=8.0
