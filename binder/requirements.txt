@@ -1,5 +1,4 @@
 numpy
 matplotlib
 scipy
-jupyterlab
-ipywidgets
+ipywidgets~=8.0
